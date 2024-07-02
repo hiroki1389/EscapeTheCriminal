@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: 3f9bd71ea00339d41ab55bbdde545e3c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Accessories
+    100002: Console
+    100004: Engine1
+    100006: Engine2
+    100008: EngineMount
+    100010: EngineMount.001
+    100012: Lever
+    100014: Propeller
+    100016: Propeller.001
+    100018: //RootNode
+    100020: Rib
+    100022: Rib_DoubleEngine1_Joined
+    100024: Rib_DoubleEngine2_Joined
+    100026: Rib_SingleEngine1_Joined
+    100028: Rib_SingleEngine2_Joined
+    100030: RollCage
+    100032: SeatsFront
+    100034: SeatsRear
+    100036: Steering Wheel
+    400000: Accessories
+    400002: Console
+    400004: Engine1
+    400006: Engine2
+    400008: EngineMount
+    400010: EngineMount.001
+    400012: Lever
+    400014: Propeller
+    400016: Propeller.001
+    400018: //RootNode
+    400020: Rib
+    400022: Rib_DoubleEngine1_Joined
+    400024: Rib_DoubleEngine2_Joined
+    400026: Rib_SingleEngine1_Joined
+    400028: Rib_SingleEngine2_Joined
+    400030: RollCage
+    400032: SeatsFront
+    400034: SeatsRear
+    400036: Steering Wheel
+    2100000: Rhib
+    2100002: Glass
+    2300000: Accessories
+    2300002: Console
+    2300004: Engine1
+    2300006: Engine2
+    2300008: EngineMount
+    2300010: EngineMount.001
+    2300012: Lever
+    2300014: Propeller
+    2300016: Propeller.001
+    2300018: Rib
+    2300020: Rib_DoubleEngine1_Joined
+    2300022: Rib_DoubleEngine2_Joined
+    2300024: Rib_SingleEngine1_Joined
+    2300026: Rib_SingleEngine2_Joined
+    2300028: RollCage
+    2300030: SeatsFront
+    2300032: SeatsRear
+    2300034: Steering Wheel
+    3300000: Accessories
+    3300002: Console
+    3300004: Engine1
+    3300006: Engine2
+    3300008: EngineMount
+    3300010: EngineMount.001
+    3300012: Lever
+    3300014: Propeller
+    3300016: Propeller.001
+    3300018: Rib
+    3300020: Rib_DoubleEngine1_Joined
+    3300022: Rib_DoubleEngine2_Joined
+    3300024: Rib_SingleEngine1_Joined
+    3300026: Rib_SingleEngine2_Joined
+    3300028: RollCage
+    3300030: SeatsFront
+    3300032: SeatsRear
+    3300034: Steering Wheel
+    4300000: Rib
+    4300002: Steering Wheel
+    4300004: Lever
+    4300006: SeatsFront
+    4300008: Console
+    4300010: Engine1
+    4300012: RollCage
+    4300014: Accessories
+    4300016: EngineMount
+    4300018: Propeller
+    4300020: Engine2
+    4300022: EngineMount.001
+    4300024: SeatsRear
+    4300026: Rib_DoubleEngine1_Joined
+    4300028: Rib_SingleEngine1_Joined
+    4300030: Rib_DoubleEngine2_Joined
+    4300032: Rib_SingleEngine2_Joined
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
