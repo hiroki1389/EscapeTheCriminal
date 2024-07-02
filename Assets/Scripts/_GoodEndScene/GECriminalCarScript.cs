@@ -1,0 +1,38 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+// created by Rai.
+// attached to CriminalSet object in GoodEndScene.
+public class GECriminalCarScript : MonoBehaviour
+{
+    private float elapsedTime = 0.0f;
+    private const float ANIMATION_TIME = 30.0f;
+
+    //y軸のポジションを取得
+    private float positionY;
+    private float difference;
+
+    private float speed = 0.9f;
+
+    // Start is called before the first frame update
+    private void Start()
+    {
+        positionY = this.transform.position.y;
+    }
+
+    // Update is called once per frame
+    private void Update()
+    {
+        elapsedTime += Time.deltaTime;
+        if(speed<0.0f)
+            return;
+
+        if(elapsedTime < ANIMATION_TIME)
+        {
+            difference = positionY - this.transform.position.y;
+            this.transform.position += new Vector3(0.0f, difference, speed);
+            speed -= 0.03f;
+        }
+    }
+}
